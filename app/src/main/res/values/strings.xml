@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Football Match Schedule</string>
+    <string name="favorites">favorites</string>
+    <string name="label_search">Search</string>
+    <string name="label_goals">Goals</string>
+    <string name="label_shots">Shots</string>
+    <string name="label_goalkeeper">Goal Keeper</string>
+    <string name="label_defense">Defense</string>
+    <string name="label_midfield">Midfield</string>
+    <string name="label_forward">Forward</string>
+    <string name="label_substitutes">Substitutes</string>
+    <string name="label_favorite">Favorite</string>
+    <string name="label_team">Team</string>
+    <string name="label_goalsfor">GF</string>
+    <string name="label_goalsagainst">GA</string>
+    <string name="label_goalsdifference">GD</string>
+    <string name="label_points">Pt</string>
+    <string name="label_player_name">Name</string>
+    <string name="label_player_nationality">Nationality</string>
+    <string name="label_player_date_born">Date Born</string>
+    <string name="label_player_birth_location">Birth Location</string>
+    <string name="label_player_position">Position</string>
+    <string name="label_player_height">Height</string>
+    <string name="label_player_weight">Weight</string>
+    <string name="label_player_description">Description</string>
+    <string name="label_team_name">Name</string>
+    <string name="label_team_short_name">Short Name</string>
+    <string name="label_team_alternate_name">Alternate Name</string>
+    <string name="label_team_description">Description</string>
+    <string name="label_team_stadium">Stadium</string>
+    <string name="label_team_stadium_name">Name</string>
+    <string name="label_team_stadium_location">Location</string>
+    <string name="label_team_stadium_description">Description</string>
+    <string name="label_next_match">Next Match</string>
+    <string name="label_last_match">Last Match</string>
+</resources>
